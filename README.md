@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamDaedalus
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning JavaScript and python
+- 🌱 I’m currently learning Godot and GDScript
 - 💞️ I’m looking to collaborate on open source projects and games
 - 📫 How to reach me manny.is.daedalus@pm.me
 
